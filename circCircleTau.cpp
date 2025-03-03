@@ -14,7 +14,7 @@ int main() {
     float radius, circumference;
 
     // get the radius from the user
-    std::cout << "Enter the radius (5): ";
+    std::cout << "Enter the radius (mm): ";
     std::cin >> radius;
 
     // calculate the circumference using tau
